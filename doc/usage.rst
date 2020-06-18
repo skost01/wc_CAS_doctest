@@ -7,7 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+You should know how to do that. Cmon
 
 
 Make
